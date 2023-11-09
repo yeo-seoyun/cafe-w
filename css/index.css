@@ -214,6 +214,16 @@ section {
   margin-top: 30px;
 }
 
+.beverage-imglist {
+  display: flex;
+  flex-flow: row nowrap;
+}
+.beverage-imglist p {
+  font-size: 1.8rem;
+  text-transform: uppercase;
+}
+
+
 /* section 02 추천강좌 */
 .remommend {
   height: 624px;
